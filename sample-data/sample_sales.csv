@@ -1,0 +1,503 @@
+date,product,category,region,quantity,unit_price,revenue,customer_age
+2025-02-02,Laptop,Electronics,East,4,119.37,477.48,65
+2025-03-03,Laptop,Electronics,West,1,24.6,24.6,31
+2025-04-04,T-Shirt,Clothing,South,9,215.56,1940.04,46
+2025-05-05,Coffee Maker,Home & Kitchen,South,7,176.72,1237.04,27
+2025-06-06,Jacket,Clothing,North,2,196.16,392.32,40
+2025-07-07,Microwave,Home & Kitchen,North,8,272.75,2182.0,42
+2025-08-08,Headphones,Electronics,East,10,104.22,1042.2,22
+2025-09-09,Smartphone,Electronics,East,2,429.11,858.22,24
+2025-10-10,Cookbook,Books,West,6,89.7,538.2,40
+2025-11-11,Jacket,Clothing,North,10,321.14,3211.4,52
+2025-12-12,Jeans,Clothing,West,7,142.27,995.89,58
+2025-01-13,Jacket,Clothing,North,4,412.68,1650.72,69
+2025-02-14,Toaster,Home & Kitchen,East,2,113.38,226.76,54
+2025-03-15,Blender,Home & Kitchen,West,7,443.49,3104.43,59
+2025-04-16,Sci-Fi Book,Books,East,3,130.85,392.55,53
+2025-05-17,Toaster,Home & Kitchen,West,6,117.47,704.82,26
+2025-06-18,Fiction Novel,Books,North,2,84.89,169.78,28
+2025-07-19,Fiction Novel,Books,West,7,301.99,2113.93,47
+2025-08-20,Coffee Maker,Home & Kitchen,North,9,377.93,3401.37,67
+2025-09-21,Coffee Maker,Home & Kitchen,East,7,87.5,612.5,18
+2025-10-22,Blender,Home & Kitchen,North,5,422.42,2112.1,50
+2025-11-23,Jeans,Clothing,East,3,274.3,822.9,67
+2025-12-24,Headphones,Electronics,West,1,64.82,64.82,41
+2025-01-25,Blender,Home & Kitchen,North,4,440.22,1760.88,23
+2025-02-26,Monitor,Electronics,North,9,385.26,3467.34,
+2025-03-27,Sci-Fi Book,Books,East,9,437.49,3937.41,45
+2025-04-28,Jeans,Clothing,East,7,497.62,3483.34,59
+2025-05-01,Toaster,Home & Kitchen,West,2,131.47,262.94,22
+2025-06-02,Coffee Maker,Home & Kitchen,South,10,117.91,1179.1,22
+2025-07-03,Smartphone,Electronics,North,1,431.22,431.22,22
+2025-08-04,Jacket,Clothing,West,4,274.22,1096.88,64
+2025-09-05,Sci-Fi Book,Books,West,7,103.3,723.1,24
+2025-10-06,Cookbook,Books,West,7,238.84,1671.88,64
+2025-11-07,Laptop,Electronics,North,7,366.82,2567.74,69
+2025-12-08,Smartphone,Electronics,South,4,272.78,1091.12,26
+2025-01-09,Sci-Fi Book,Books,East,8,132.41,1059.28,22
+2025-02-10,Fiction Novel,Books,North,9,419.65,3776.85,23
+2025-03-11,Jeans,Clothing,West,8,245.87,1966.96,43
+2025-04-12,Smartphone,Electronics,West,1,492.8,492.8,34
+2025-05-13,Cookbook,Books,,9,334.32,3008.88,49
+2025-06-14,Jeans,Clothing,East,4,484.67,1938.68,55
+2025-07-15,Headphones,Electronics,North,1,296.25,296.25,50
+2025-08-16,T-Shirt,Clothing,North,3,43.58,130.74,22
+2025-09-17,Sneakers,Clothing,North,10,130.65,1306.5,56
+2025-10-18,Laptop,Electronics,West,10,286.96,2869.6,38
+2025-11-19,Blender,Home & Kitchen,East,4,140.15,560.6,26
+2025-12-20,Toaster,Home & Kitchen,East,2,14.56,29.12,57
+2025-01-21,Laptop,Electronics,South,9,139.95,1259.55,40
+2025-02-22,Smartphone,Electronics,East,5,87.3,436.5,52
+2025-03-23,Coffee Maker,Home & Kitchen,East,2,7051.2,14102.4,
+2025-04-24,Coffee Maker,Home & Kitchen,North,9,86.17,775.53,36
+2025-05-25,Jacket,Clothing,South,5,257.65,1288.25,34
+2025-06-26,Laptop,Electronics,West,5,31.6,158.0,39
+2025-07-27,Jacket,Clothing,South,8,280.32,2242.56,45
+2025-08-28,Laptop,Electronics,North,3,277.34,832.02,41
+2025-09-01,Sneakers,Clothing,South,1,161.05,161.05,68
+2025-10-02,Headphones,Electronics,South,4,336.8,1347.2,40
+2025-11-03,Sci-Fi Book,Books,South,3,488.34,1465.02,69
+2025-12-04,Sneakers,Clothing,North,3,370.92,1112.76,39
+2025-01-05,Sci-Fi Book,Books,East,3,395.81,1187.43,24
+2025-02-06,Fiction Novel,Books,West,4,107.79,431.16,47
+2025-03-07,Microwave,Home & Kitchen,South,4,21.6,86.4,30
+2025-04-08,Cookbook,Books,East,2,483.78,967.56,35
+2025-05-09,Toaster,Home & Kitchen,East,1,66.52,66.52,34
+2025-06-10,Jacket,Clothing,North,2,302.32,604.64,40
+2025-07-11,Toaster,Home & Kitchen,North,7,450.76,3155.32,30
+2025-08-12,Coffee Maker,Home & Kitchen,West,1,264.76,264.76,69
+2025-09-13,Jacket,Clothing,West,2,474.95,949.9,39
+2025-10-14,Coffee Maker,Home & Kitchen,East,9,161.55,1453.95,44
+2025-11-15,Toaster,Home & Kitchen,East,9,72.37,651.33,44
+2025-12-16,Sci-Fi Book,Books,East,7,278.49,1949.43,18
+2025-01-17,Microwave,Home & Kitchen,South,7,395.02,2765.14,56
+2025-02-18,Toaster,Home & Kitchen,West,8,341.06,2728.48,50
+2025-03-19,Sci-Fi Book,Books,North,5,262.57,1312.85,58
+2025-04-20,Coffee Maker,Home & Kitchen,South,5,120.07,600.35,
+2025-05-21,T-Shirt,Clothing,North,4,492.13,1968.52,57
+2025-06-22,Monitor,Electronics,West,10,105.27,1052.7,62
+2025-07-23,History Book,Books,West,4,82.31,329.24,62
+2025-08-24,Laptop,Electronics,West,4,96.18,384.72,62
+2025-09-25,Fiction Novel,Books,,2,233.67,467.34,69
+2025-10-26,Cookbook,Books,West,10,409.35,4093.5,50
+2025-11-27,History Book,Books,South,8,230.53,1844.24,66
+2025-12-28,Jacket,Clothing,West,4,144.55,578.2,22
+2025-01-01,Blender,Home & Kitchen,East,6,166.66,999.96,52
+2025-02-02,Smartphone,Electronics,South,4,197.69,790.76,27
+2025-03-03,T-Shirt,Clothing,West,7,172.13,1204.91,47
+2025-04-04,Fiction Novel,Books,South,7,200.84,1405.88,67
+2025-05-05,Monitor,Electronics,West,1,471.94,471.94,37
+2025-06-06,History Book,Books,South,8,117.52,940.16,45
+2025-07-07,Fiction Novel,Books,West,6,337.75,2026.5,69
+2025-08-08,Sci-Fi Book,Books,West,3,490.55,1471.65,52
+2025-09-09,Monitor,Electronics,North,2,324.95,649.9,26
+2025-10-10,Sci-Fi Book,Books,North,5,195.76,978.8,31
+2025-11-11,Cookbook,Books,East,7,146.35,1024.45,44
+2025-12-12,Coffee Maker,Home & Kitchen,West,1,377.02,377.02,21
+2025-01-13,Blender,Home & Kitchen,North,1,379.57,379.57,33
+2025-02-14,T-Shirt,Clothing,South,4,71.85,287.4,60
+2025-03-15,Smartphone,Electronics,West,5,385.78,1928.9,28
+2025-04-16,Smartphone,Electronics,East,2,293.56,587.12,37
+2025-05-17,History Book,Books,South,2,300.13,600.26,
+2025-06-18,T-Shirt,Clothing,East,10,404.71,4047.1,68
+2025-07-19,Headphones,Electronics,West,6,43.79,262.74,59
+2025-08-20,Coffee Maker,Home & Kitchen,West,8,61.71,493.68,41
+2025-09-21,Sci-Fi Book,Books,West,3,369.56,1108.68,59
+2025-10-22,Toaster,Home & Kitchen,West,7,414.61,2902.27,55
+2025-11-23,Microwave,Home & Kitchen,South,2,146.67,293.34,46
+2025-12-24,Sneakers,Clothing,West,6,24.06,144.36,38
+2025-01-25,Sneakers,Clothing,South,6,400.94,2405.64,39
+2025-02-26,Microwave,Home & Kitchen,North,9,474.55,4270.95,23
+2025-03-27,Sneakers,Clothing,West,9,381.5,3433.5,62
+2025-04-28,History Book,Books,West,1,55.6,55.6,32
+2025-05-01,Sci-Fi Book,Books,East,10,190.82,1908.2,53
+2025-06-02,Toaster,Home & Kitchen,East,6,354.4,2126.4,35
+2025-07-03,Microwave,Home & Kitchen,South,2,363.43,726.86,38
+2025-08-04,Smartphone,Electronics,South,4,371.92,1487.68,35
+2025-09-05,Coffee Maker,Home & Kitchen,South,5,121.47,607.35,29
+2025-10-06,Coffee Maker,Home & Kitchen,South,5,32.3,161.5,21
+2025-11-07,Blender,Home & Kitchen,West,2,437.63,875.26,54
+2025-12-08,Toaster,Home & Kitchen,West,8,176.95,1415.6,21
+2025-01-09,Toaster,Home & Kitchen,,2,206.35,412.7,22
+2025-02-10,Smartphone,Electronics,South,10,475.07,4750.7,23
+2025-03-11,T-Shirt,Clothing,West,10,302.1,3021.0,57
+2025-04-12,Sneakers,Clothing,West,8,155.7,1245.6,55
+2025-05-13,Cookbook,Books,North,10,480.45,4804.5,24
+2025-06-14,Jeans,Clothing,East,2,86.96,173.92,
+2025-07-15,Smartphone,Electronics,North,7,230.75,1615.25,56
+2025-08-16,Cookbook,Books,North,4,151.17,604.68,36
+2025-09-17,Fiction Novel,Books,South,5,396.04,1980.2,58
+2025-10-18,Sneakers,Clothing,North,9,120.16,1081.44,27
+2025-11-19,Blender,Home & Kitchen,North,1,91.3,91.3,37
+2025-12-20,Toaster,Home & Kitchen,North,8,347.45,2779.6,62
+2025-01-21,Cookbook,Books,West,8,49.42,395.36,20
+2025-02-22,Cookbook,Books,East,1,54.75,54.75,61
+2025-03-23,Headphones,Electronics,North,3,240.55,721.65,59
+2025-04-24,Cookbook,Books,South,10,223.58,2235.8,70
+2025-05-25,Fiction Novel,Books,West,6,210.09,1260.54,38
+2025-06-26,Smartphone,Electronics,East,7,349.9,2449.3,36
+2025-07-27,Fiction Novel,Books,West,2,164.11,328.22,38
+2025-08-28,Monitor,Electronics,North,9,236.37,2127.33,21
+2025-09-01,Jacket,Clothing,West,8,382.4,3059.2,31
+2025-10-02,Blender,Home & Kitchen,East,8,441.61,3532.88,49
+2025-11-03,Laptop,Electronics,South,3,162.27,486.81,18
+2025-12-04,Fiction Novel,Books,South,2,236.11,472.22,25
+2025-01-05,Sneakers,Clothing,East,9,355.65,3200.85,44
+2025-02-06,History Book,Books,South,8,280.12,2240.96,42
+2025-03-07,Jeans,Clothing,North,5,388.61,1943.05,44
+2025-04-08,Microwave,Home & Kitchen,North,5,365.76,1828.8,55
+2025-05-09,Sci-Fi Book,Books,West,9,247.33,2225.97,39
+2025-06-10,History Book,Books,East,4,490.58,1962.32,33
+2025-07-11,Sci-Fi Book,Books,West,1,2488.65,2488.65,
+2025-08-12,History Book,Books,South,8,482.76,3862.08,26
+2025-09-13,Coffee Maker,Home & Kitchen,West,2,267.72,535.44,47
+2025-10-14,Smartphone,Electronics,West,3,46.67,140.01,68
+2025-11-15,Microwave,Home & Kitchen,West,2,427.36,854.72,61
+2025-12-16,Cookbook,Books,West,9,27.59,248.31,22
+2025-01-17,Jacket,Clothing,South,2,222.65,445.3,24
+2025-02-18,Monitor,Electronics,South,5,452.68,2263.4,20
+2025-03-19,Coffee Maker,Home & Kitchen,East,6,193.67,1162.02,27
+2025-04-20,Sneakers,Clothing,South,3,95.78,287.34,57
+2025-05-21,Sci-Fi Book,Books,,10,80.13,801.3,47
+2025-06-22,Toaster,Home & Kitchen,East,1,450.47,450.47,47
+2025-07-23,Blender,Home & Kitchen,North,8,473.17,3785.36,55
+2025-08-24,Toaster,Home & Kitchen,East,8,424.2,3393.6,30
+2025-09-25,History Book,Books,North,4,196.87,787.48,40
+2025-10-26,Microwave,Home & Kitchen,North,7,144.5,1011.5,54
+2025-11-27,Monitor,Electronics,East,4,307.46,1229.84,40
+2025-12-28,Jeans,Clothing,East,3,317.84,953.52,58
+2025-01-01,Headphones,Electronics,West,1,293.99,293.99,64
+2025-02-02,T-Shirt,Clothing,East,6,376.27,2257.62,29
+2025-03-03,Jeans,Clothing,East,9,255.88,2302.92,35
+2025-04-04,Jacket,Clothing,West,5,375.81,1879.05,39
+2025-05-05,Monitor,Electronics,North,3,379.53,1138.59,32
+2025-06-06,Cookbook,Books,North,7,16.82,117.74,52
+2025-07-07,Monitor,Electronics,East,5,296.43,1482.15,70
+2025-08-08,Coffee Maker,Home & Kitchen,South,8,22.26,178.08,
+2025-09-09,Blender,Home & Kitchen,North,8,455.6,3644.8,37
+2025-10-10,Fiction Novel,Books,South,1,473.67,473.67,37
+2025-11-11,Fiction Novel,Books,North,4,444.76,1779.04,26
+2025-12-12,History Book,Books,East,9,215.37,1938.33,65
+2025-01-13,Sneakers,Clothing,North,8,311.67,2493.36,35
+2025-02-14,Headphones,Electronics,South,8,227.9,1823.2,33
+2025-03-15,Coffee Maker,Home & Kitchen,East,9,451.83,4066.47,59
+2025-04-16,Coffee Maker,Home & Kitchen,West,5,103.01,515.05,25
+2025-05-17,Fiction Novel,Books,South,10,485.84,4858.4,21
+2025-06-18,Blender,Home & Kitchen,South,10,110.55,1105.5,66
+2025-07-19,Jeans,Clothing,South,6,389.44,2336.64,68
+2025-08-20,Headphones,Electronics,South,3,274.71,824.13,69
+2025-09-21,T-Shirt,Clothing,North,3,17.28,51.84,68
+2025-10-22,Jacket,Clothing,North,3,140.03,420.09,26
+2025-11-23,Fiction Novel,Books,North,8,229.65,1837.2,41
+2025-12-24,Monitor,Electronics,South,10,31.25,312.5,68
+2025-01-25,Toaster,Home & Kitchen,North,1,499.31,499.31,43
+2025-02-26,Fiction Novel,Books,West,8,46.01,368.08,23
+2025-03-27,Blender,Home & Kitchen,North,3,144.76,434.28,58
+2025-04-28,Toaster,Home & Kitchen,East,8,257.72,2061.76,45
+2025-05-01,Laptop,Electronics,South,7,231.26,1618.82,32
+2025-06-02,Cookbook,Books,West,7,213.83,1496.81,24
+2025-07-03,Toaster,Home & Kitchen,East,5,193.41,967.05,27
+2025-08-04,Fiction Novel,Books,North,2,55.68,111.36,24
+2025-09-05,Blender,Home & Kitchen,,10,478.75,4787.5,
+2025-10-06,Coffee Maker,Home & Kitchen,West,6,438.07,2628.42,66
+2025-11-07,Fiction Novel,Books,East,10,163.1,1631.0,24
+2025-12-08,Jeans,Clothing,West,4,425.16,1700.64,40
+2025-01-09,Coffee Maker,Home & Kitchen,East,10,120.82,1208.2,45
+2025-02-10,Headphones,Electronics,North,3,143.9,431.7,66
+2025-03-11,Microwave,Home & Kitchen,East,1,98.89,98.89,27
+2025-04-12,Fiction Novel,Books,South,1,54.96,54.96,51
+2025-05-13,Sneakers,Clothing,West,8,177.04,1416.32,41
+2025-06-14,Microwave,Home & Kitchen,North,1,86.23,86.23,66
+2025-07-15,Laptop,Electronics,East,8,334.35,2674.8,49
+2025-08-16,History Book,Books,East,4,379.92,1519.68,25
+2025-09-17,Toaster,Home & Kitchen,North,5,342.33,1711.65,55
+2025-10-18,Cookbook,Books,North,4,203.68,814.72,56
+2025-11-19,Laptop,Electronics,South,5,473.21,2366.05,67
+2025-12-20,Jacket,Clothing,East,6,68.79,412.74,49
+2025-01-21,Sci-Fi Book,Books,South,7,270.97,1896.79,32
+2025-02-22,Coffee Maker,Home & Kitchen,West,1,223.75,223.75,47
+2025-03-23,Headphones,Electronics,West,10,208.17,2081.7,58
+2025-04-24,Cookbook,Books,North,7,20.22,141.54,38
+2025-05-25,Sneakers,Clothing,East,2,223.99,447.98,24
+2025-06-26,Sneakers,Clothing,West,9,48.54,436.86,37
+2025-07-27,Blender,Home & Kitchen,East,3,47.43,142.29,58
+2025-08-28,Smartphone,Electronics,East,6,366.42,2198.52,70
+2025-09-01,Jeans,Clothing,North,3,135.42,406.26,29
+2025-10-02,T-Shirt,Clothing,South,8,237.34,1898.72,
+2025-11-03,Cookbook,Books,East,3,225.48,676.44,48
+2025-12-04,Cookbook,Books,East,10,37.52,375.2,50
+2025-01-05,Headphones,Electronics,West,8,28.43,227.44,41
+2025-02-06,Coffee Maker,Home & Kitchen,North,10,301.1,3011.0,42
+2025-03-07,Fiction Novel,Books,West,10,329.4,3294.0,38
+2025-04-08,Sci-Fi Book,Books,North,8,60.72,485.76,39
+2025-05-09,Smartphone,Electronics,North,4,356.73,1426.92,46
+2025-06-10,Jacket,Clothing,East,5,199.83,999.15,67
+2025-07-11,Coffee Maker,Home & Kitchen,East,2,171.55,343.1,53
+2025-08-12,Cookbook,Books,East,10,437.91,4379.1,39
+2025-09-13,Smartphone,Electronics,East,5,484.17,2420.85,62
+2025-10-14,Sci-Fi Book,Books,North,5,283.87,1419.35,59
+2025-11-15,Blender,Home & Kitchen,North,7,259.16,1814.12,19
+2025-12-16,Microwave,Home & Kitchen,South,4,177.45,709.8,67
+2025-01-17,Sci-Fi Book,Books,,3,85.92,257.76,36
+2025-02-18,Laptop,Electronics,East,10,74.21,742.1,42
+2025-03-19,Jeans,Clothing,South,10,406.43,4064.3,28
+2025-04-20,Fiction Novel,Books,West,6,341.42,2048.52,33
+2025-05-21,Cookbook,Books,West,4,271.67,1086.68,37
+2025-06-22,Sci-Fi Book,Books,East,10,492.38,4923.8,47
+2025-07-23,Toaster,Home & Kitchen,West,3,410.28,1230.84,69
+2025-08-24,Jacket,Clothing,North,8,438.32,3506.56,53
+2025-09-25,Laptop,Electronics,East,2,383.93,767.86,35
+2025-10-26,Sci-Fi Book,Books,West,2,473.74,947.48,32
+2025-11-27,Cookbook,Books,North,7,541.5,3790.5,
+2025-12-28,Blender,Home & Kitchen,West,2,193.71,387.42,19
+2025-01-01,Coffee Maker,Home & Kitchen,East,3,77.42,232.26,36
+2025-02-02,Sci-Fi Book,Books,West,8,311.52,2492.16,23
+2025-03-03,Headphones,Electronics,South,3,278.91,836.73,64
+2025-04-04,Fiction Novel,Books,East,4,157.56,630.24,21
+2025-05-05,Sneakers,Clothing,West,2,64.32,128.64,49
+2025-06-06,Smartphone,Electronics,South,5,220.33,1101.65,57
+2025-07-07,Blender,Home & Kitchen,West,3,335.54,1006.62,23
+2025-08-08,Coffee Maker,Home & Kitchen,North,7,437.93,3065.51,20
+2025-09-09,Cookbook,Books,East,1,184.98,184.98,22
+2025-10-10,Blender,Home & Kitchen,North,10,370.24,3702.4,39
+2025-11-11,T-Shirt,Clothing,East,9,175.89,1583.01,59
+2025-12-12,Sneakers,Clothing,West,3,407.63,1222.89,22
+2025-01-13,Fiction Novel,Books,East,4,31.47,125.88,30
+2025-02-14,Headphones,Electronics,East,9,205.13,1846.17,70
+2025-03-15,Cookbook,Books,North,4,150.19,600.76,67
+2025-04-16,Headphones,Electronics,East,2,401.68,803.36,45
+2025-05-17,History Book,Books,West,6,487.12,2922.72,49
+2025-06-18,Cookbook,Books,East,2,366.27,732.54,23
+2025-07-19,Sci-Fi Book,Books,East,6,60.27,361.62,38
+2025-08-20,Microwave,Home & Kitchen,West,10,361.65,3616.5,28
+2025-09-21,Cookbook,Books,West,1,366.14,366.14,40
+2025-10-22,Cookbook,Books,North,2,338.88,677.76,43
+2025-11-23,Blender,Home & Kitchen,North,3,425.85,1277.55,61
+2025-12-24,Fiction Novel,Books,South,2,125.64,251.28,
+2025-01-25,Microwave,Home & Kitchen,West,10,25.87,258.7,27
+2025-02-26,Cookbook,Books,East,8,383.91,3071.28,54
+2025-03-27,Jacket,Clothing,West,6,328.28,1969.68,33
+2025-04-28,Laptop,Electronics,South,8,263.7,2109.6,53
+2025-05-01,Headphones,Electronics,,8,115.14,921.12,57
+2025-06-02,Toaster,Home & Kitchen,South,2,76.51,153.02,22
+2025-07-03,Sci-Fi Book,Books,West,2,407.15,814.3,38
+2025-08-04,Coffee Maker,Home & Kitchen,East,5,427.17,2135.85,63
+2025-09-05,Jacket,Clothing,South,2,492.71,985.42,68
+2025-10-06,Jeans,Clothing,West,1,186.84,186.84,54
+2025-11-07,Toaster,Home & Kitchen,South,10,443.28,4432.8,22
+2025-12-08,Toaster,Home & Kitchen,West,9,211.29,1901.61,44
+2025-01-09,Smartphone,Electronics,East,2,230.49,460.98,61
+2025-02-10,Blender,Home & Kitchen,South,3,221.98,665.94,21
+2025-03-11,Smartphone,Electronics,East,3,89.36,268.08,63
+2025-04-12,Jacket,Clothing,East,2,132.8,265.6,58
+2025-05-13,Blender,Home & Kitchen,East,10,271.4,2714.0,50
+2025-06-14,Jeans,Clothing,South,10,363.11,3631.1,56
+2025-07-15,Coffee Maker,Home & Kitchen,North,2,32.28,64.56,59
+2025-08-16,Blender,Home & Kitchen,West,10,323.11,3231.1,49
+2025-09-17,Microwave,Home & Kitchen,West,4,404.3,1617.2,61
+2025-10-18,Cookbook,Books,West,2,347.42,694.84,28
+2025-11-19,History Book,Books,West,8,109.97,879.76,56
+2025-12-20,Jacket,Clothing,East,6,487.93,2927.58,26
+2025-01-21,Coffee Maker,Home & Kitchen,East,4,238.57,954.28,
+2025-02-22,Sci-Fi Book,Books,South,2,34.8,69.6,42
+2025-03-23,Sci-Fi Book,Books,South,6,467.54,2805.24,64
+2025-04-24,Blender,Home & Kitchen,South,8,498.03,3984.24,47
+2025-05-25,Cookbook,Books,West,1,54.12,54.12,43
+2025-06-26,Sci-Fi Book,Books,South,10,182.92,1829.2,21
+2025-07-27,Toaster,Home & Kitchen,West,5,272.98,1364.9,24
+2025-08-28,Sci-Fi Book,Books,East,6,384.29,2305.74,41
+2025-09-01,Monitor,Electronics,North,10,285.29,2852.9,41
+2025-10-02,Coffee Maker,Home & Kitchen,West,9,230.67,2076.03,53
+2025-11-03,Coffee Maker,Home & Kitchen,South,2,203.01,406.02,68
+2025-12-04,Microwave,Home & Kitchen,South,4,305.21,1220.84,43
+2025-01-05,Laptop,Electronics,North,3,359.66,1078.98,69
+2025-02-06,History Book,Books,South,10,447.63,4476.3,26
+2025-03-07,Microwave,Home & Kitchen,South,7,495.4,3467.8,65
+2025-04-08,Microwave,Home & Kitchen,West,10,156.9,1569.0,70
+2025-05-09,Headphones,Electronics,East,2,490.15,980.3,55
+2025-06-10,Coffee Maker,Home & Kitchen,West,5,483.86,2419.3,68
+2025-07-11,T-Shirt,Clothing,West,3,266.87,800.61,64
+2025-08-12,Sci-Fi Book,Books,South,1,290.56,290.56,62
+2025-09-13,Smartphone,Electronics,,8,163.71,1309.68,27
+2025-10-14,Sci-Fi Book,Books,West,9,389.74,3507.66,48
+2025-11-15,Smartphone,Electronics,South,9,169.27,1523.43,60
+2025-12-16,History Book,Books,East,3,235.24,705.72,52
+2025-01-17,Microwave,Home & Kitchen,East,10,247.25,2472.5,33
+2025-02-18,Microwave,Home & Kitchen,South,5,387.88,1939.4,
+2025-03-19,Sneakers,Clothing,East,8,180.91,1447.28,68
+2025-04-20,Microwave,Home & Kitchen,North,10,341.54,3415.4,42
+2025-05-21,Cookbook,Books,South,5,30.61,153.05,63
+2025-06-22,Headphones,Electronics,West,5,376.2,1881.0,31
+2025-07-23,Jacket,Clothing,East,3,63.52,190.56,65
+2025-08-24,Jeans,Clothing,North,9,120.58,1085.22,32
+2025-09-25,Laptop,Electronics,West,6,361.51,2169.06,24
+2025-10-26,T-Shirt,Clothing,South,7,329.92,2309.44,48
+2025-11-27,Sci-Fi Book,Books,East,6,149.85,899.1,21
+2025-12-28,Smartphone,Electronics,North,3,214.76,644.28,29
+2025-01-01,Monitor,Electronics,West,3,468.94,1406.82,36
+2025-02-02,Laptop,Electronics,East,10,305.36,3053.6,39
+2025-03-03,Toaster,Home & Kitchen,West,3,427.02,1281.06,47
+2025-04-04,Blender,Home & Kitchen,North,6,89.62,537.72,47
+2025-05-05,Blender,Home & Kitchen,North,6,397.48,2384.88,54
+2025-06-06,Jeans,Clothing,West,7,262.49,1837.43,23
+2025-07-07,Fiction Novel,Books,South,3,243.95,731.85,33
+2025-08-08,Headphones,Electronics,West,4,228.9,915.6,35
+2025-09-09,Microwave,Home & Kitchen,North,5,330.3,1651.5,62
+2025-10-10,T-Shirt,Clothing,North,8,160.34,1282.72,43
+2025-11-11,Coffee Maker,Home & Kitchen,East,6,311.17,1867.02,32
+2025-12-12,Sneakers,Clothing,South,8,376.39,3011.12,56
+2025-01-13,Toaster,Home & Kitchen,West,9,402.98,3626.82,70
+2025-02-14,Jeans,Clothing,North,9,228.91,2060.19,63
+2025-03-15,Coffee Maker,Home & Kitchen,North,1,6241.5,6241.5,
+2025-04-16,Jeans,Clothing,South,6,428.7,2572.2,46
+2025-05-17,Smartphone,Electronics,West,2,450.46,900.92,46
+2025-06-18,Monitor,Electronics,South,9,213.56,1922.04,54
+2025-07-19,Monitor,Electronics,East,1,204.01,204.01,70
+2025-08-20,Smartphone,Electronics,North,1,217.61,217.61,62
+2025-09-21,Laptop,Electronics,North,8,25.55,204.4,44
+2025-10-22,Jeans,Clothing,West,6,496.5,2979.0,42
+2025-11-23,History Book,Books,West,2,344.54,689.08,60
+2025-12-24,Jacket,Clothing,North,3,496.49,1489.47,43
+2025-01-25,Jeans,Clothing,,1,489.46,489.46,47
+2025-02-26,History Book,Books,South,4,235.71,942.84,27
+2025-03-27,Blender,Home & Kitchen,North,1,406.64,406.64,44
+2025-04-28,Smartphone,Electronics,South,2,59.44,118.88,20
+2025-05-01,Fiction Novel,Books,South,1,207.11,207.11,32
+2025-06-02,T-Shirt,Clothing,South,9,496.81,4471.29,32
+2025-07-03,Microwave,Home & Kitchen,South,5,439.37,2196.85,60
+2025-08-04,Sneakers,Clothing,East,5,39.87,199.35,55
+2025-09-05,Sneakers,Clothing,West,1,486.42,486.42,59
+2025-10-06,Cookbook,Books,West,7,83.12,581.84,42
+2025-11-07,Sneakers,Clothing,South,4,157.36,629.44,63
+2025-12-08,Sneakers,Clothing,North,9,212.21,1909.89,44
+2025-01-09,Sneakers,Clothing,South,5,109.63,548.15,59
+2025-02-10,Monitor,Electronics,East,2,272.46,544.92,30
+2025-03-11,Headphones,Electronics,West,10,305.43,3054.3,22
+2025-04-12,Jeans,Clothing,West,4,436.04,1744.16,
+2025-05-13,Coffee Maker,Home & Kitchen,South,4,481.42,1925.68,25
+2025-06-14,Sci-Fi Book,Books,South,7,458.41,3208.87,53
+2025-07-15,Microwave,Home & Kitchen,West,8,271.49,2171.92,40
+2025-08-16,Microwave,Home & Kitchen,East,9,442.58,3983.22,47
+2025-09-17,Monitor,Electronics,East,4,191.65,766.6,44
+2025-10-18,Smartphone,Electronics,South,1,137.78,137.78,55
+2025-11-19,Cookbook,Books,South,4,171.63,686.52,42
+2025-12-20,Sneakers,Clothing,East,5,384.05,1920.25,49
+2025-01-21,History Book,Books,South,6,92.94,557.64,64
+2025-02-22,Sci-Fi Book,Books,North,9,26.57,239.13,22
+2025-03-23,Laptop,Electronics,West,3,422.85,1268.55,32
+2025-04-24,Smartphone,Electronics,North,4,257.81,1031.24,41
+2025-05-25,Monitor,Electronics,West,1,13.24,13.24,53
+2025-06-26,Fiction Novel,Books,North,9,363.87,3274.83,52
+2025-07-27,Coffee Maker,Home & Kitchen,West,3,62.44,187.32,24
+2025-08-28,Jeans,Clothing,South,10,267.96,2679.6,70
+2025-09-01,Microwave,Home & Kitchen,West,2,192.8,385.6,43
+2025-10-02,Sci-Fi Book,Books,South,5,345.18,1725.9,23
+2025-11-03,Laptop,Electronics,West,7,194.81,1363.67,48
+2025-12-04,Laptop,Electronics,South,2,254.93,509.86,45
+2025-01-05,Coffee Maker,Home & Kitchen,North,4,113.59,454.36,62
+2025-02-06,Cookbook,Books,North,2,345.37,690.74,35
+2025-03-07,Smartphone,Electronics,East,1,481.12,481.12,55
+2025-04-08,Sneakers,Clothing,North,5,89.6,448.0,33
+2025-05-09,Cookbook,Books,,3,397.34,1192.02,
+2025-06-10,Headphones,Electronics,North,2,224.17,448.34,22
+2025-07-11,Toaster,Home & Kitchen,East,1,320.72,320.72,68
+2025-08-12,History Book,Books,South,6,280.99,1685.94,42
+2025-09-13,Sci-Fi Book,Books,West,2,388.36,776.72,36
+2025-10-14,T-Shirt,Clothing,North,5,85.57,427.85,63
+2025-11-15,Sneakers,Clothing,East,6,62.21,373.26,18
+2025-12-16,Toaster,Home & Kitchen,East,5,60.09,300.45,23
+2025-01-17,Sneakers,Clothing,West,9,281.82,2536.38,44
+2025-02-18,Laptop,Electronics,North,6,281.57,1689.42,56
+2025-03-19,Toaster,Home & Kitchen,North,5,212.77,1063.85,67
+2025-04-20,Smartphone,Electronics,South,7,93.06,651.42,35
+2025-05-21,Microwave,Home & Kitchen,West,3,41.0,123.0,45
+2025-06-22,Toaster,Home & Kitchen,East,8,393.51,3148.08,41
+2025-07-23,Blender,Home & Kitchen,West,10,312.17,3121.7,47
+2025-08-24,Smartphone,Electronics,East,1,474.92,474.92,39
+2025-09-25,Cookbook,Books,West,6,221.0,1326.0,70
+2025-10-26,Jacket,Clothing,East,10,474.17,4741.7,30
+2025-11-27,Cookbook,Books,South,7,484.68,3392.76,36
+2025-12-28,Sci-Fi Book,Books,East,7,147.35,1031.45,68
+2025-01-01,Cookbook,Books,North,10,107.9,1079.0,52
+2025-02-02,T-Shirt,Clothing,West,4,224.84,899.36,36
+2025-03-03,Monitor,Electronics,West,3,320.33,960.99,33
+2025-04-04,Blender,Home & Kitchen,West,7,46.24,323.68,56
+2025-05-05,History Book,Books,West,9,28.01,252.09,41
+2025-06-06,Laptop,Electronics,South,6,91.51,549.06,
+2025-07-07,Monitor,Electronics,East,7,61.91,433.37,24
+2025-08-08,Blender,Home & Kitchen,South,8,193.32,1546.56,47
+2025-09-09,Jacket,Clothing,North,8,61.23,489.84,44
+2025-10-10,Laptop,Electronics,South,6,162.83,976.98,47
+2025-11-11,Sneakers,Clothing,East,8,57.84,462.72,64
+2025-12-12,Cookbook,Books,North,5,31.89,159.45,63
+2025-01-13,Laptop,Electronics,East,2,341.8,683.6,28
+2025-02-14,Jeans,Clothing,South,6,284.33,1705.98,47
+2025-03-15,Sneakers,Clothing,South,3,323.83,971.49,45
+2025-04-16,Fiction Novel,Books,South,8,300.18,2401.44,42
+2025-05-17,Smartphone,Electronics,South,5,378.64,1893.2,69
+2025-06-18,Laptop,Electronics,South,6,169.73,1018.38,47
+2025-07-19,Headphones,Electronics,West,9,483.3,4349.7,38
+2025-08-20,History Book,Books,North,6,182.47,1094.82,47
+2025-09-21,Jacket,Clothing,,3,163.46,490.38,33
+2025-10-22,Coffee Maker,Home & Kitchen,South,6,349.78,2098.68,50
+2025-11-23,History Book,Books,South,10,198.02,1980.2,29
+2025-12-24,Sci-Fi Book,Books,South,8,151.53,1212.24,29
+2025-01-25,Toaster,Home & Kitchen,North,6,476.4,2858.4,49
+2025-02-26,Jeans,Clothing,West,9,257.66,2318.94,49
+2025-03-27,History Book,Books,West,8,249.46,1995.68,23
+2025-04-28,Smartphone,Electronics,East,1,144.68,144.68,52
+2025-05-01,Blender,Home & Kitchen,West,10,373.83,3738.3,67
+2025-06-02,Fiction Novel,Books,North,5,389.81,1949.05,70
+2025-07-03,Coffee Maker,Home & Kitchen,West,9,1756.35,15807.15,
+2025-08-04,Smartphone,Electronics,East,1,230.37,230.37,40
+2025-09-05,Monitor,Electronics,North,4,112.84,451.36,65
+2025-10-06,Toaster,Home & Kitchen,South,10,78.23,782.3,31
+2025-11-07,T-Shirt,Clothing,East,9,147.73,1329.57,52
+2025-12-08,Jacket,Clothing,East,5,290.64,1453.2,50
+2025-01-09,Smartphone,Electronics,West,1,496.32,496.32,59
+2025-02-10,Jeans,Clothing,South,3,358.58,1075.74,33
+2025-03-11,History Book,Books,South,10,319.88,3198.8,58
+2025-04-12,History Book,Books,West,2,320.48,640.96,67
+2025-05-13,Monitor,Electronics,East,6,232.8,1396.8,49
+2025-06-14,Coffee Maker,Home & Kitchen,North,8,321.07,2568.56,62
+2025-07-15,Coffee Maker,Home & Kitchen,West,4,484.38,1937.52,70
+2025-08-16,Sneakers,Clothing,East,6,415.89,2495.34,39
+2025-09-17,Sneakers,Clothing,East,1,32.51,32.51,58
+2025-10-18,Fiction Novel,Books,North,3,226.23,678.69,18
+2025-11-19,Sci-Fi Book,Books,South,5,87.9,439.5,35
+2025-12-20,Headphones,Electronics,East,2,192.2,384.4,59
+2025-01-21,T-Shirt,Clothing,West,5,365.73,1828.65,66
+2025-02-22,Sneakers,Clothing,North,2,10.53,21.06,48
+2025-03-23,Smartphone,Electronics,South,9,343.19,3088.71,18
+2025-04-24,Headphones,Electronics,North,7,350.08,2450.56,48
+2025-05-25,Smartphone,Electronics,West,2,368.07,736.14,24
+2025-06-26,Headphones,Electronics,East,5,77.19,385.95,67
+2025-07-27,Jeans,Clothing,North,9,286.01,2574.09,57
+2025-08-28,Sneakers,Clothing,East,4,317.76,1271.04,
+2025-09-01,History Book,Books,South,2,449.33,898.66,26
+2025-10-02,Monitor,Electronics,East,7,164.11,1148.77,26
+2025-11-03,Jacket,Clothing,North,4,281.16,1124.64,56
+2025-12-04,Coffee Maker,Home & Kitchen,East,4,263.7,1054.8,50
+2025-01-05,Sneakers,Clothing,,1,394.06,394.06,68
+2025-02-06,Sneakers,Clothing,West,2,128.13,256.26,58
+2025-03-07,Laptop,Electronics,East,6,74.67,448.02,54
+2025-04-08,Cookbook,Books,South,8,477.68,3821.44,67
+2025-05-09,Laptop,Electronics,North,1,138.47,138.47,20
+2025-06-10,Monitor,Electronics,East,9,385.88,3472.92,45
+2025-07-11,Fiction Novel,Books,South,5,50.96,254.8,23
+2025-08-12,Jeans,Clothing,East,7,297.35,2081.45,66
+2025-09-13,Headphones,Electronics,West,4,38.37,153.48,23
+2025-10-14,Fiction Novel,Books,West,10,308.33,3083.3,37
+2025-11-15,T-Shirt,Clothing,North,3,353.73,1061.19,28
+2025-12-16,Cookbook,Books,East,3,192.22,576.66,65
+2025-01-17,Coffee Maker,Home & Kitchen,North,6,405.48,2432.88,35
+2025-02-18,Headphones,Electronics,North,8,233.05,1864.4,41
+2025-03-19,Monitor,Electronics,South,6,87.08,522.48,67
+2025-04-20,Laptop,Electronics,South,9,11.26,101.34,18
+2025-05-21,T-Shirt,Clothing,West,6,197.66,1185.96,27
+2025-06-22,T-Shirt,Clothing,West,4,167.68,670.72,44
+2025-07-23,Microwave,Home & Kitchen,North,10,192.68,1926.8,50
+2025-08-24,Smartphone,Electronics,South,9,490.89,4418.01,43
+2025-09-25,Monitor,Electronics,East,5,170.38,851.9,
+2025-02-02,Laptop,Electronics,East,4,119.37,477.48,65
+2025-03-03,Laptop,Electronics,West,1,24.6,24.6,31
